@@ -56,9 +56,13 @@ Here’s a detailed list of image processing methods commonly used in OpenCV:
    - **Opening and Closing:**
      - `cv2.morphologyEx()`: Perform noise removal (opening) or hole closing (closing).
 
+
+
 ### **6. Thresholding**
    - **Global Thresholding:**
      - `cv2.threshold()`: Convert an image to binary.
+
+     - Binary , Inverse thresholding
    
    - **Adaptive Thresholding:**
      - `cv2.adaptiveThreshold()`: Local thresholding based on neighboring pixels.
@@ -109,6 +113,7 @@ Here’s a detailed list of image processing methods commonly used in OpenCV:
    - **GrabCut Algorithm:**
      - `cv2.grabCut()`: Foreground extraction.
 
+
 ### **13. Fourier Transform**
    - **Fourier Transforms:**
      - `cv2.dft()` and `cv2.idft()`: Frequency domain transformation.
@@ -119,6 +124,8 @@ Here’s a detailed list of image processing methods commonly used in OpenCV:
    
    - **Circle Detection:**
      - `cv2.HoughCircles()`: Detect circles.
+ 
+ 
 
 ### **15. Feature Detection**
    - **SIFT (Scale-Invariant Feature Transform):**
@@ -141,6 +148,17 @@ Here’s a detailed list of image processing methods commonly used in OpenCV:
    - Fast, scale, and rotation-invariant feature detection.
    - `cv2.ORB_create()`
 
+
+
+
+
+
+# correlation vs convolution
+
+
+
+
+# GRADIENT CALCULATION FOR SIMPLE NEURAL NETWORK
 
 
 Here’s a structured roadmap for mastering deep learning, from foundational knowledge to advanced topics. It is divided into various stages, each containing essential subtopics and recommended resources to guide you.
