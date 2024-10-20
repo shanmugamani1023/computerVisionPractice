@@ -148,22 +148,81 @@ Here’s a detailed list of image processing methods commonly used in OpenCV:
    - Fast, scale, and rotation-invariant feature detection.
    - `cv2.ORB_create()`
 
-
-
-
-
-
 # correlation vs convolution
-
-
-
 
 # GRADIENT CALCULATION FOR SIMPLE NEURAL NETWORK
 
+# activation function why it needs and types
 
-Here’s a structured roadmap for mastering deep learning, from foundational knowledge to advanced topics. It is divided into various stages, each containing essential subtopics and recommended resources to guide you.
+# loss function why and it needs which loss funtions are used in classification,multi class classification
 
----
+# optimizers types and differences
+# chain rule
+
+# vanishing gradient and exploding gradient how to solve
+
+# regularization and its techniques
+
+# Batch normalization
+
+# To improve the model we can do :
+
+# 1.Regularization (avoid overfitting)
+
+   # 1. L1 & L2 
+   # 2. Early stopping ( Loss based & weights based)
+   # 3. Add gradient noise
+   # 4. Data augmentation 
+   # 5. Ensemble models
+   # 6. Dropout
+
+# To avoid vansihing gradient 
+
+# 1.Choosing best activation functions
+# 2.Weight intialization (xavier and he weight intialization)
+   # 1.Xavier :
+   # When give a weight it maintains same variance for all layers
+
+   # 2.He :
+   # it maintains additional amount of variance
+
+
+# Challeges :
+ # 1. Local minima 's
+ # 2. Flat regions
+ # 3. Vanishing gradient and exploding gradient problems
+ # 4.Choosing or Fine tunning hyperparameters :
+   # 1.  weight intialization
+   # 2. Choosing correct no.of epoch
+   # 3.Learning rate
+   # 4. Choosing Activation function
+   # 5. Loss functions
+   # 6. optimzer
+
+# intialization of weights / biases
+
+
+
+# ANN vs CNN difference
+
+# Types of networks and its architechtures differences
+
+# simple ANN in programming in tensorflow
+
+# simple CNN in programming in tensorflow
+
+
+# i have to work on my project explanation
+
+# then need to interiview practice with chat gpt
+
+# git portfolio and profile
+
+# linked in update
+
+# naukri update
+
+# job search
 
 ### **1. Prerequisites (Mathematics and Programming)**
 
