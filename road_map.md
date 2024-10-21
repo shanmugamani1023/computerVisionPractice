@@ -186,6 +186,10 @@ Here’s a detailed list of image processing methods commonly used in OpenCV:
    # 2.He :
    # it maintains additional amount of variance
 
+# 3. Batch normalization
+
+# 4.skip connections (by pass the way)
+
 
 # Challeges :
  # 1. Local minima 's
@@ -201,15 +205,33 @@ Here’s a detailed list of image processing methods commonly used in OpenCV:
 
 # intialization of weights / biases
 
-
-
 # ANN vs CNN difference
 
-# Types of networks and its architechtures differences
+# Types of networks and its architechtures differences:
+
+# classification
+
+# object detection
+
+# segmentation
+
+# RNN and its types
+
+
+
+# trade off between bias and variance
+
+# confusion matrix
+
+# accuracy
+
+# precision and recall,mAP
 
 # simple ANN in programming in tensorflow
 
 # simple CNN in programming in tensorflow
+
+# Classification model using pretrained model(alex net ,vgg ,google net ,resnet)
 
 
 # i have to work on my project explanation
