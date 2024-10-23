@@ -217,8 +217,6 @@ Here’s a detailed list of image processing methods commonly used in OpenCV:
 
 # RNN and its types
 
-
-
 # trade off between bias and variance
 
 # confusion matrix
@@ -226,6 +224,12 @@ Here’s a detailed list of image processing methods commonly used in OpenCV:
 # accuracy
 
 # precision and recall,mAP
+
+
+
+# questions in tensorflow
+
+# what is tensorflow ,and which is faster tensorflow vs pytorch
 
 # simple ANN in programming in tensorflow
 
@@ -236,13 +240,14 @@ Here’s a detailed list of image processing methods commonly used in OpenCV:
 
 # i have to work on my project explanation
 
-# then need to interiview practice with chat gpt
 
 # git portfolio and profile
 
 # linked in update
 
 # naukri update
+
+# then need to interiview practice with chat gpt
 
 # job search
 
